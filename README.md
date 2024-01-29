@@ -2,6 +2,9 @@
 <p align="center">
   🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
 </p>
+## Here are some screenshots 
+<img width="1253" alt="Screenshot 2024-01-29 at 5 09 07 PM" src="https://github.com/abdullah-jamil/todo-react/assets/94765139/f5e2fa5f-377e-40c6-9c43-dc6315bb50e5">
+<img width="1319" alt="Screenshot 2024-01-30 at 12 00 59 AM" src="https://github.com/abdullah-jamil/todo-react/assets/94765139/308029cd-777d-43b8-807c-38e8fcd28f22">
 
 ## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
